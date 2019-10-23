@@ -14,10 +14,10 @@ pygmentscodefences  = true
 
 [[menu.main]]
     name = "About"
-    url  = "../about/"
+    url  = "/about/"
 [[menu.main]]
     name = "Services"
-    url  = "../services/"
+    url  = "/services/"
 [[menu.main]]
     name = "Contact"
-    url  = "../contact"
+    url  = "/contact"

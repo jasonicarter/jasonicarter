@@ -1,22 +1,19 @@
-+++
-title = "After Deep Learning: 4 Months a Data Engineer at Format"
-description = ""
-tags = [
+---
+title: "After Deep Learning: 4 Months a Data Engineer at Format"
+description: ""
+tags: [
     "data",
     "startup",
     "analytics",
     "deep learning"
 ]
-date = "2017-12-27"
-categories = [
-    "Development",
-]
-+++
+date: "2017-12-27"
+---
 
 > Everyone has a plan until they get punched in the face.
 > \- Mike Tyson
 
-#### The Beginning of 2017
+## The Beginning of 2017
 
 My career punch in the face was more like repeated body blows which lead me to here, my end of year recap, 2017.
 
@@ -26,7 +23,7 @@ But let’s take a step back. After taking this journey (and writing about it) I
 
 * * *
 
-#### The Job Hunt
+## The Job Hunt
 
 After my 4 months of studying and side projects, I felt that I had a pretty decent understanding of not only the main fundamentals of Deep Learning but more importantly the practical application of the techniques. Some companies thought so as well, while others not so much.
 
@@ -40,7 +37,7 @@ However, some companies responded with an automated email and link, asking me to
 
 No. I will not get back to you.
 
-#### Startup vs Medium vs Enterprise
+## Startup vs Medium vs Enterprise
 
 Does size matter? I found the larger the company, the more specialized or narrow your focus will be. For example, I interviewed for some medium/large companies who saw me fitting in best as a data analyst, while other smaller companies thought I would be perfect in a machine learning engineer role. Also, in larger companies you can expect more of a mentorship/learning experience but the smaller the company the more you’ll have to figure things out for yourself. _Learn by doing, failing and repeating_. You need to know yourself, what you’ll enjoy doing but also where you want to be 5 or 10 years down the road.
 
@@ -48,13 +45,13 @@ So here’s my piece of advice: Don’t assume the job roles in Machine/Deep lea
 
 * * *
 
-#### Format
+## Format
 
 A Toronto based, bootstrap startup, helping artists showcase their work professionally and beautifully on their own online portfolios, designed for the creative mind.
 
 Like a typical startup bootstrap company, Format needs people with multiple talents. And as such, the Data Engineer role I applied for was really _part_ _Data Engineer, part Data Analyst and part Machine Learning Engineer_. Am I great at all 3 roles? Hell no! But my past experience, self-study machine/deep learning work, willingness and ability to pickup new technologies, made me a perfect fit (in my opinion). And it was actually that mixture of roles that had me so excited to join the company, but it didn’t stop there. Unlike a lot of other companies I interviewed with, Format had long term plans for the role which included becoming the evangelist for a company wanting to become a data-driven organization.
 
-#### My Current Work
+## My Current Work
 
 When a company decides it needs a data team they probably start to break things down into steps and roles, trying to figure out how many people are required and in which roles. To many, it looks like this:
 
@@ -72,7 +69,7 @@ The third person I rolled up into data engineer because, if you don’t know or 
 
 However, when you’re small and in the early stages of gathering and utilizing your data, it’s possible to get away with only one hire, like myself, a data team of one. I’m heavily involved in steps 1 through 3, and as a company starting its journey to become a data-driven organization, you’ll be relying on every person in each department becoming their own data analyst. This in turn, lightens my load a bit, at least in the early stages of utilizing your data.
 
-#### What I Actually Do
+## What I Actually Do
 
 Two weeks in, I made my first prod deployment…in Ruby, a language I learned at Format. Many hats.
 
@@ -95,7 +92,7 @@ A serverless data infrastructure lets me focus on the data and not performance o
 
 Noticed there isn’t any Python, K-Means or CNNs listed? Neural networks and machine learning algorithms can do wonders for any business, but if you have inconsistent data, teammates who can’t find the data they need, or worse, a team who doesn’t know how to use the data you provide them, then your cool new bleeding edge algorithms don’t do shit!
 
-#### Future at Format
+## Future at Format
 
 Data infrastructure work never ends, I always seem to find something more to add, remove or refactor; However, building a serverless infrastructure does help a lot. And as Format moves towards becoming a more data-driven organization — i.e. each department doing their own data analysis, running and analyzing A/B tests on a monthly basis, etc, it pulls me further away from being the analytics bottle neck. This allows me to focus on other random and exciting long term projects like:
 
@@ -107,7 +104,7 @@ The potential is endless.
 
 * * *
 
-#### The End of 2017
+## The End of 2017
 
 When I started the year, I wasn’t stuck but tired, of my career direction. I saw Deep/Machine Learning Engineer as a role in its infancy, with a lot of growth into the future. Many of the exciting things happening in this field is in research and not actual implementation and everyday use for businesses. And that’s where I wanted to fit in. Not the Data Scientist but the Engineer. Making use of, implementing and maintaining the technology to help the business and its users.
 
@@ -116,5 +113,3 @@ At [Format](https://www.format.com), I get to do all of that and more. An indepe
 By [Jason I. Carter](https://medium.com/@jasonicarter) on [December 27, 2017](https://medium.com/p/1c43731bc489).
 
 [Canonical link](https://medium.com/@jasonicarter/after-deep-learning-4-months-a-data-engineer-at-format-1c43731bc489)
-
-Exported from [Medium](https://medium.com) on October 19, 2019.

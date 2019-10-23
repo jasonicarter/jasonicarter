@@ -1,18 +1,15 @@
-+++
-title = "Buliding Data"
-description = ""
-tags = [
+---
+title: "Buliding Data"
+description: ""
+tags: [
     "data",
     "startup",
     "analytics",
 ]
-date = "2019-04-26"
-categories = [
-    "Development",
-]
-+++
+date: "2019-04-26"
+---
 
-Infrastructure, Trust, Appreciation and Decisions
+## Infrastructure, Trust, Appreciation and Decisions
 
 > failure (fālˈyər)
 >
@@ -21,7 +18,9 @@ Infrastructure, Trust, Appreciation and Decisions
 
 ***
 
-I’ve failed. As the first [Data Engineer](https://www.cio.com/article/3292983/what-is-a-data-engineer.html) at a startup in Toronto I had lofty goals, great new-ish/slightly borrowed ideas, and I even had _phases_ so everything would fit nicely into my grand plan. Don’t get me wrong, failure isn’t a bad thing, and I got plenty of shit done. But I knew the problems, I knew the solutions, I had everything grouped in phases. How could I fail? How did I???
+## I’ve failed
+
+As the first [Data Engineer](https://www.cio.com/article/3292983/what-is-a-data-engineer.html) at a startup in Toronto I had lofty goals, great new-ish/slightly borrowed ideas, and I even had _phases_ so everything would fit nicely into my grand plan. Don’t get me wrong, failure isn’t a bad thing, and I got plenty of shit done. But I knew the problems, I knew the solutions, I had everything grouped in phases. How could I fail? How did I???
 
 Lets start from the beginning, Day 0, I thought long and hard about what I wanted to accomplish and how I’d do it, so lets start there. Lets democratize data!
 
@@ -67,7 +66,7 @@ Photo by [Stephen Dawson](https://unsplash.com/@srd844?utm_source=medium&utm_med
 
 * * *
 
-#### 1\. Building Data Infrastructure
+### 1\. Building Data Infrastructure
 
 Every company seems to want or need a Data Engineer these days. What this person does for the company varies to a large degree depending on the industry and data maturity of the company. This can span across startups to large been-around-forever type enterprise companies.
 
@@ -83,8 +82,7 @@ A good, simple and typical starter batch processing infrastructure may look like
 
 The phrase “self-serve” is like fools’ gold or perhaps a pet snake or [the scorpion and the frog](https://en.wikipedia.org/wiki/The_Scorpion_and_the_Frog), basically anything that looks great at first and then bits you in the ass the first chance it gets.
 
-[**The Scorpion and the Frog - Wikipedia**  
-_A scorpion asks a frog to carry it across a river. The frog hesitates, afraid of being stung by the scorpion, but the…_en.wikipedia.org](https://en.wikipedia.org/wiki/The_Scorpion_and_the_Frog#/media/File:Tortoise_and_Scorpion.jpg "https://en.wikipedia.org/wiki/The_Scorpion_and_the_Frog#/media/File:Tortoise_and_Scorpion.jpg")[](https://en.wikipedia.org/wiki/The_Scorpion_and_the_Frog#/media/File:Tortoise_and_Scorpion.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/7/79/Tortoise_and_Scorpion.jpg)
 
 Self-serve BI, aka democratizing data, is when someone imagines a world where tools with intuitive drag-n-drop interfaces are actually intuitive for all, people only ask questions they can’t answer themselves and everyone knows SQL. Users who do excel would have most likely done so with any tool provided the right resources were available to help. These are users who are enthusiastic to learn more about the tool and data, and don’t mind the learning curve associated with the reward. However, in reality, creating a self-serve analysis environment gives you a mixed bag of mass confusion, greatness and stupidity such as
 
@@ -98,7 +96,7 @@ Self-serve will overwhelm you and underwhelm your stakeholders. If you’re not 
 
 * * *
 
-#### 2\. Building Data Trust
+### 2\. Building Data Trust
 
 If no one trusts the data you’re providing, it’s not worth providing it. I learned quickly that a semi-great looking infrastructure spitting out data isn’t enough. People need to use that data to view results and gain insights into anything from marketing campaigns and conversion rates to A/B experiments and user in-app behaviour. If your end users simply don’t believe the metrics you’re providing, they’ll quickly stop using your data. And if you’re lucky, they’ll at least tell you that they don’t trust the data— and yes, that’s being lucky. The only thing worse than end users not trusting your data, is users who don’t trust your data, stop using it, find alternatives and never tell you about it.
 
@@ -114,7 +112,7 @@ Hard to believe but this all goes back to data trust. If stakeholders don’t ha
 
 * * *
 
-#### 3\. Building Data Appreciation
+### 3\. Building Data Appreciation
 
 Appreciation. Not in the sense of needing people to appreciate the work you do but the data itself and how they can use it to achieve their own goals. Data appreciation needs to fostered among team members and the company as a whole, without this a — so what? — attitude will always get in the way of people utilizing everything you’ve provided.
 
@@ -126,7 +124,7 @@ At a startup (or any company at an early stage of data maturity), your role as a
 
 * * *
 
-#### 4\. Building Data (driven) Decisions
+### 4\. Building Data (driven) Decisions
 
 Data driven decisions or any iteration of this theme is basically the concept of business users utilizing data insights to make, verify and/or validate their decisions, before they action them. These decisions could be the foundation of a hypothesis for an experiment or an explanation of a failed marketing campaign or the reason to invest in a particular product feature. The point being, you rely on data to help you make decisions, this facilitates a more efficient process and allows you to work on things that matter, things that bring value to you and your organization.
 
@@ -148,7 +146,7 @@ Photo by [Franki Chamaki](https://unsplash.com/@franki?utm_source=medium&utm_med
 
 * * *
 
-#### Building A Conclusion
+## Building A Conclusion
 
 As a story about building data, you might have had the impression or anticipation for some technical diagrams, an example Airflow DAG code block somewhere or at least some pseudo code. But I think all of those things come and go. Either the industry changes, the role description changes or more often than not, the technology, process and technique changes. Plus, there are PLENTY of Medium stories out there already talking about how to build a data infrastructure, or how to use Airflow with K8s.
 
@@ -158,5 +156,3 @@ company’s life, they need their first employee to help code a new feature, fir
 By [Jason I. Carter](https://medium.com/@jasonicarter) on [April 26, 2019](https://medium.com/p/23d598f57ab7).
 
 [Canonical link](https://medium.com/@jasonicarter/building-data-23d598f57ab7)
-
-Exported from [Medium](https://medium.com) on October 19, 2019.

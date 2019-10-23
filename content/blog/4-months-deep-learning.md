@@ -1,17 +1,14 @@
-+++
-title = "4 Months of Machine & Deep Learning"
-description = ""
-tags = [
+---
+title: "4 Months of Machine & Deep Learning"
+description: ""
+tags: [
     "data",
     "machine learning",
     "analytics",
     "deep learning"
 ]
-date = "2017-07-05"
-categories = [
-    "Development",
-]
-+++
+date: "2017-07-05"
+---
 
 ![](https://cdn-images-1.medium.com/max/2560/1*Dhhmu8qYnHmtjTHxYkDjiw.jpeg)
 
@@ -31,7 +28,7 @@ _I still have a lot more deeplearning to learn but sitting in a classroom not ap
 
 * * *
 
-### What (I did) and How (I did it)
+## What (I did) and How (I did it)
 
 Instead of boring you with great details I’m going to send you to my original Medium post [here](https://medium.com/towards-data-science/my-3-month-deep-learning-career-pivot-af94cd8d6a31) and my follow up LinkedIn post [over here](https://www.linkedin.com/pulse/self-study-guide-becoming-deep-learning-non-expert-jason-carter).
 
@@ -45,20 +42,20 @@ Let me first share with you my “final” schedule and then I’ll discuss the 
 
 * * *
 
-### My Schedule
+## My Schedule
 
 At this point I’m now studying full-time, doing maybe 10–14 hours a day. I kept a work-like daily schedule, fitting in a gym and lunch break. Mostly the hours where during the weekday, sometimes going to sleep at 1 or 2AM, but I also had days where I got absolutely nothing done. Sometimes it was due to me just being lazy (summer is here!) other times it was due to burnout.
 
 _As a reminder, my background going to this — education wise — I have a Software Engineering degree and a_ [_Udacity Data Analyst nanodegree_](https://www.udacity.com/course/data-analyst-nanodegree--nd002)_. Along with work experience as both a developer and analyst._
 
-#### Month 1
+### Month 1
 
 *   [Deep Learning — Part 1](https://medium.com/towards-data-science/fast-ai-the-toc-of-practical-deep-learning-part-1-70c89187d654) (started)
 *   Attempt a [Kaggle](https://www.kaggle.com) Competition
 *   Share the Experience: Medium
 *   Attend Local Workshops (general AI talks)
 
-#### Month 2
+### Month 2
 
 *   [Deep Learning — Part 1](https://medium.com/towards-data-science/fast-ai-the-toc-of-practical-deep-learning-part-1-70c89187d654) (completed)
 *   [Build a Deep Learning Box from Scratch](https://medium.com/towards-data-science/build-a-deep-learning-pc-for-1-000-cad-f3c5f26ba134) (read about my experience)
@@ -67,7 +64,7 @@ _As a reminder, my background going to this — education wise — I hav
 *   Share the Experience: Medium
 *   Attend Local Workshops (AI talks and panel discussions)
 
-#### Month 3
+### Month 3
 
 *   Deep Learning — Part 2 (started+paused)
 *   [Data Scientist with Python, Career Track: DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) (completed)
@@ -75,20 +72,20 @@ _As a reminder, my background going to this — education wise — I hav
 *   Share the Experience: Medium
 *   More Local Workshops ([DeepLearni.ng](https://medium.com/u/e720f869de47): TensorFlow and Kubernetes)
 
-#### Month 4
+### Month 4
 
 *   Deep Learning, Part 2 (started)
 *   Capstone: Build & Deploy End-to-End Deep Learning Product (started)
 *   Share the Experience: Medium
 
-#### Misc.
+### Misc.
 
 1.  Just as a note, each course or program has plenty of reading material — blog articles, Stanford University online CNN course, academic papers, etc — and as usual, you get out of it what you put in. I’ve done plenty of “extra” reading but certainly there are areas I skimmed over or had no personal interest in learning more about.
 2.  I’m currently in month 4-ish (mid-July actually makes it 3.5, I’m ahead of schedule) but it wont be a full month of studying as I plan to start my job search soon.
 
 * * *
 
-### The Details
+## The Details
 
 I made 3 major changes to my original schedule:
 
@@ -123,7 +120,7 @@ In my capstone project I will define a problem, potential solution, source data,
 
 * * *
 
-### My Advice to Beginners
+## My Advice to Beginners
 
 Start learning. You have no good excuse not too. Even if it’s a career change.
 
@@ -151,7 +148,7 @@ P.S. I have a little “reading list” which I’ve been updating, trying to ke
 
 * * *
 
-### Next On My Schedule
+## Next On My Schedule
 
 Get a job. My final item will of course be getting back to work. I’ll try to do it as selectively as possible, not to say that I haven’t done it that way before, but I think given this is a career change it’ll be good to review every aspect of the process.
 
@@ -167,5 +164,3 @@ For me personally, based on my interests, I’ll be looking for a role that allo
 By [Jason I. Carter](https://medium.com/@jasonicarter) on [July 5, 2017](https://medium.com/p/89f6ab56a2fd).
 
 [Canonical link](https://medium.com/@jasonicarter/4-months-of-machine-deep-learning-89f6ab56a2fd)
-
-Exported from [Medium](https://medium.com) on October 19, 2019.
