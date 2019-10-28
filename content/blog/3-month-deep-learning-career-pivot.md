@@ -1,6 +1,6 @@
 ---
 title: "My 3 Month Deep Learning Career Pivot"
-description: ""
+description: "A career pivot from software developer to deep learning and my self-study guide"
 tags: [
     "data",
     "machine learning",

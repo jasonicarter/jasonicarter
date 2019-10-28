@@ -1,11 +1,12 @@
 ---
 title: "After Deep Learning: 4 Months a Data Engineer at Format"
-description: ""
+description: "What comes after a career pivot into Machine Learning? A career in Data Engineering at Format"
 tags: [
     "data",
     "startup",
     "analytics",
-    "deep learning"
+    "deep learning",
+    "data engineer"
 ]
 date: "2017-12-27"
 ---

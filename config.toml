@@ -8,6 +8,11 @@ theme = "black-and-light"
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
+googleAnalytics = "UA-43596308-3"
+
+enableRobotsTXT = true
+canonifyURLs = true
+
 [params]
   sitename = "Jason I. Carter"
   disableWebFonts = false

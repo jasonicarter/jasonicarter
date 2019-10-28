@@ -1,6 +1,6 @@
 ---
 title: "4 Months of Machine & Deep Learning"
-description: ""
+description: "My 4 months self-study guide/schedule of machine learning and deep learning"
 tags: [
     "data",
     "machine learning",

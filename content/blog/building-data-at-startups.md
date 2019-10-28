@@ -1,10 +1,12 @@
 ---
 title: "Buliding Data"
-description: ""
+description: "As a data solutions strategist for startup companies, there's only one way to build data. Fail and repeat."
 tags: [
     "data",
     "startup",
     "analytics",
+    "data infrastructure",
+    "data engineering"
 ]
 date: "2019-04-26"
 ---
