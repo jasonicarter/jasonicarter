@@ -8,6 +8,7 @@ tags: [
     "deep learning"
 ]
 date: "2017-07-05"
+showDate: true
 ---
 
 ![](https://cdn-images-1.medium.com/max/2560/1*Dhhmu8qYnHmtjTHxYkDjiw.jpeg)

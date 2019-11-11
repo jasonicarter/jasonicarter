@@ -1,28 +1,42 @@
-baseurl = "/"
-title = "Jason I. Carter"
-author = "Jason Carter"
-canonifyurls = true
-languagecode = "en"
-theme = "black-and-light"
-
-pygmentsstyle       = "bw"
-pygmentscodefences  = true
-
-googleAnalytics = "UA-43596308-3"
-
+baseurl                  = "https://jasonicarter.com/"           # Your domain name. Must end with "/"
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Jason I. Carter"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+googleAnalytics        = "UA-43596308-3"                               # Tracking code, eg. "UA-111111111-1"
 enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
-  sitename = "Jason I. Carter"
-  disableWebFonts = false
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "home."                           # What to call the home page link
+    footerText           = "Space Coffee & Data Inc."
 
-[[menu.main]]
-    name = "About"
-    url  = "/about/"
-[[menu.main]]
-    name = "Services"
-    url  = "/services/"
-[[menu.main]]
-    name = "Contact"
-    url  = "/contact"
+# Metadata for Open Graph and Twitter
+    description          = "Technical Writer and Data Solutions Consultant at Space Coffee & Data."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Jason I. Carter"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "I am a..."
+
+[[params.mainMenu]]
+    link = "https://www.fiverr.com/space_coffee"
+    text = "Freelancer."
+
+[[params.mainMenu]]
+    link = "https://spaceandcoffee.com"
+    text = "Sci-Fi Book reviewer."
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "Blog writer."
+
+[imaging]
+    quality = 75
