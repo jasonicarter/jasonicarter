@@ -1,20 +1,19 @@
 ---
-title: "Hi! Welcome."
+title: "Engineer."
+date: 2019-11-11
 ---
 
-<!-- ![](about.jpg) -->
+Hello and welcome.
 
-I’m Jason Carter, a freelance technical writer, data solutions engineer and (sci-fi) book lover and reviewer. But I'm also a computer language polyglot and an ex-computer teacher to the elderly and new immigrants.
+I’m Jason Carter, a freelance technical writer, data solutions engineer and sci-fi book lover and reviewer. But I'm also a computer language polyglot and an ex YMCA computer teacher to the elderly and new immigrants.
 
-I’ve worked across a large number of industries from finance to travel and consumer electronics to entertainment media. And in each new industry I worked up and down the end-to-end customer journey from sales engineer to backend data engineer. And when I'm not building infrastructure, I'm breaking down complex technical jargon and schematics into easy to follow instructions, summaries, bullet points and flow charts.
+I’ve worked across a large number of industries finance, travel, consumer electronics and the entertainment media, just to name a few. And in each new industry, I worked top to bottom of the end-to-end customer journey from sales engineer to data engineer. And when I'm not building infrastructure, I'm breaking down complex technical jargon and schematics into easy to follow instructions, summaries, architectural diagrams, bullet points and flow charts for both the technical and non-technical audiences.
 
 Oh, and I believe in [failing fast](https://en.wikipedia.org/wiki/Fail-fast) as defined by wikipedia. In my personal and professional life, I want to be:
 
 > A \[...\] system that is designed to halt as well as report the error on failure
 >
 > \[and be less\] likely to erroneously perform an irreversible or costly operation.
-
-* * *
 
 Fun Facts
 

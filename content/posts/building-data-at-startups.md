@@ -9,6 +9,7 @@ tags: [
     "data engineering"
 ]
 date: "2019-04-26"
+showDate: true
 ---
 
 ## Infrastructure, Trust, Appreciation and Decisions

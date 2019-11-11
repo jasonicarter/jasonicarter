@@ -3,6 +3,7 @@ title:  "Prosper.com Exploratory Data Analysis with R"
 description: "An exploratory data analysis of Prosper.com with R"
 date: 2016-05-23
 tags: [data analytics, R, visualization, EDA]
+showDate: true
 ---
 
 ## Introduction
