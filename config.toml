@@ -7,6 +7,8 @@ theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 googleAnalytics        = "UA-43596308-3"                               # Tracking code, eg. "UA-111111111-1"
+enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
     dateform             = "Mon Jan 02, 2006"
