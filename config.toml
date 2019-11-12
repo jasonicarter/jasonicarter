@@ -8,7 +8,6 @@ pygmentsStyle            = "monokai"                        # https://help.farbo
 pygmentsCodefences       = true
 googleAnalytics        = "UA-43596308-3"                               # Tracking code, eg. "UA-111111111-1"
 enableRobotsTXT = true
-canonifyURLs = true
 
 [params]
     dateform             = "Mon Jan 02, 2006"
@@ -16,6 +15,7 @@ canonifyURLs = true
     favicon              = "sam.ico"
     homepage             = "home."                           # What to call the home page link
     footerText           = "Space Coffee & Data Inc."
+    customCSS            = ["css/foo.css"]
 
 # Metadata for Open Graph and Twitter
     description          = "Technical Writer and Data Solutions Consultant at Space Coffee & Data."               # Max 160 characters show in search results
